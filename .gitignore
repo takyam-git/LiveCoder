@@ -1,0 +1,5 @@
+/.idea
+/node_modules
+/public/.sass-cache
+*.iml
+/sample/*

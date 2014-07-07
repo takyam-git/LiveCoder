@@ -1,0 +1,6 @@
+#!/usr/bin/env node
+var appServer = require('../app');
+
+var runPort = process.env.PORT || 3000;
+
+var server = appServer.listen(runPort);

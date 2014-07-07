@@ -1,0 +1,28 @@
+{
+  "name": "liveCoder",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.0.0",
+    "connect-redis": "^2.0.0",
+    "cookie-parser": "~1.0.1",
+    "debug": "~0.7.4",
+    "diff": "^1.0.8",
+    "ejs": "~0.8.5",
+    "express": "~4.2.0",
+    "express-session": "^1.6.3",
+    "gulp": "^3.8.5",
+    "gulp-watch": "^0.6.8",
+    "mime": "^1.2.11",
+    "morgan": "~1.0.0",
+    "node-compass": "0.2.3",
+    "socket.io": "^1.0.6",
+    "socket.io-client": "^1.0.6",
+    "static-favicon": "~1.0.0",
+    "underscore": "^1.6.0",
+    "yargs": "^1.2.6"
+  }
+}
